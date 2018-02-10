@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>%title%</title>
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div>
+	<h2>%title%</h2>
+	<h1>%topic_title%</h1>
+</div>
+<div>
+    <a><img src="%photo%" border=0></a>
+	<h2>
+		カテゴリ：%cate_index%
+		地域：%area_index%
+	</h2>
+	<h2>
+		記録日：%rec_date%
+	</h2>
+	<p>%exp%</p>
+</div>
+</body>
+</html>
